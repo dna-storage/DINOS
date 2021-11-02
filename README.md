@@ -6,7 +6,7 @@ This codebase includes the code used to generate results for DINOs, a configurab
 
 ## Requirements 
 
-This module is relatively self contained, but at least needs Matplotlib to plot results after analyzing a data set. Requirements should be installable through the use of `make init` in the top level directory of this project.
+This module is relatively self contained, but at least needs Matplotlib to plot results after analyzing a data set. Requirements should be installable through the use of `make init` in the top level directory of this project. As of now, the project is still only compatible with Python 2.7.
 
 ## Installing 
 
