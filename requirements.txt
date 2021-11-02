@@ -1,0 +1,7 @@
+statistics
+matplotlib
+numpy
+scipy
+bitarray
+networkx
+
